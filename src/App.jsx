@@ -25,7 +25,7 @@ function App() {
         <Route path="/signup" element={<SignupForm />} />
         <Route path="*" element={<h1>Page Not Found</h1>} />
       </Routes>
-      <Products/>
+      
     </BrowserRouter>
   );
 }
