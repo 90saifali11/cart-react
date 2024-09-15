@@ -5,10 +5,10 @@ import Products from './pages/Products';
 import About from './pages/About';
 import Home from "./pages/Home";
 import ProductDetail from "./pages/ProductDetail"; // Ensure the file extension matches
-import SignupForm from './pages/Signup'; // Capitalized filename to match import convention
 import SigninForm from './pages/Signin'; // Capitalized filename to match import convention
 import UserProfile from './pages/Profile'; // Capitalized filename to match import convention
 import Cart from './pages/cart';
+import SignupForm from './pages/Signup';
 
 function App() {
   return (
